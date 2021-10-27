@@ -1,4 +1,4 @@
-# meld-documentation
+# Meld-Documentation
 
 This repo will hold important Meld documentation.
 
